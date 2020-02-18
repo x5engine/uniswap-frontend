@@ -232,6 +232,12 @@ export const INITIAL_TOKENS_CONTEXT = {
       [DECIMALS]: 18,
       [EXCHANGE_ADDRESS]: '0xb7520a5F8c832c573d6BD0Df955fC5c9b72400F7'
     },
+    '0xcb182bcfbc6e3b71dc11ca7e5a3273842ae71421': {
+      [NAME]: 'KH Token',
+      [SYMBOL]: 'KH',
+      [DECIMALS]: 18,
+      [EXCHANGE_ADDRESS]: '0x6B099E9AC8Dc9f3C0Fbb56087A90768E8c801364'
+    },
     '0xdd974D5C2e2928deA5F71b9825b8b646686BD200': {
       [NAME]: 'Kyber Network Crystal',
       [SYMBOL]: 'KNC',
